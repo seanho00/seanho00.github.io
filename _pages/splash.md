@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/img/seanho-golden-ears.jpg
   caption: "&copy;2013 Sean Ho"
   cta_label: "Contact me"
-  cta_url: "mailto:www@seanho.com&body=Web+contact"
+  cta_url: "mailto:www@seanho.com?body=web://"
 
 links:
   - image_path: /assets/img/unsplash-c333d6YEhi0-bible.jpg
