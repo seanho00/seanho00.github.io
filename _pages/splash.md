@@ -33,10 +33,10 @@ links:
     btn_class: "btn--inverse"
 
 old_site:
-  title: "Old homepage"
-  except: "If you're looking for a link that used to be here"
-  url: "https://f.seanho.com/"
-  btn_label: "Resources"
+  - title: Resources
+    excerpt: "Other links and downloads"
+    url: "https://f.seanho.com/"
+    btn_label: "Old homepage"
 
 ---
 
