@@ -27,7 +27,6 @@ links:
     title: "Consulting"
     excerpt: 'Statistical consulting, data analysis, and forecasting'
     url: "https://anchorlytics.com/"
-    btn_label: "Read More"
     btn_class: "btn--inverse"
 
 old_site:
