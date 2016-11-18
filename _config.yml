@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Dr. Sean Ho"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Sean Ho"
+description              : "Sean's homepage"
+url                      : "https://seanho00.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+repository               : "seanho00/seanho00.github.io"
+teaser                   : "assets/img/seanho-golden-ears.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -77,30 +77,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Sean Ho"
+  avatar           : "/assets/img/seanho-180.png"
+  bio              : ""
+  location         : "Vancouver, BC"
+  email            : "www@seanho.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "seanho00"
   foursquare       :
-  github           :
-  google_plus      :
+  github           : "seanho00"
+  google_plus      : "seanho00"
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "seanho00"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "seanho"
   vine             :
   weibo            :
   xing             :
@@ -206,7 +206,7 @@ whitelist:
 #  - <base_path/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
-  path: /categories/
+  path: /cat/
 tag_archive:
   type: liquid
   path: /tags/
