@@ -4,8 +4,7 @@ permalink: /
 excerpt: "Ordinary guy, God's extraordinary grace"
 
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.4"
+  overlay_filter: "0.25"
   overlay_image: /assets/img/seanho-golden-ears.jpg
   caption: "&copy;2013 Sean Ho"
   cta_label: "Contact me"
