@@ -29,6 +29,6 @@ a wonderful little boy who is teaching
 them just how little sleep they need to survive!
 
 <ul>
-  <li> <a href="http://f.seanho.com/cv/">Curriculum vitae</a> </li>
-  <li> <a href="http://f.seanho.com/seanho-thesis.pdf">Ph.D. thesis</a> </li>
+  <li> <a href="https://f.seanho.com/cv/">Curriculum vitae</a> </li>
+  <li> <a href="https://f.seanho.com/seanho-thesis.pdf">Ph.D. thesis</a> </li>
 </ul>
