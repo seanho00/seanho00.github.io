@@ -4,9 +4,9 @@ permalink: /
 
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.4"
   overlay_image: /assets/img/seanho-golden-ears.jpg
-  caption: "The Golden Ears, &copy;2013 Sean Ho"
+  caption: "&copy;2013 Sean Ho"
   excerpt: "Home page of Dr. Sean Ho"
 
 links:
@@ -15,14 +15,12 @@ links:
     title: "Preaching"
     excerpt: 'Sermons in various Vancouver-area churches'
     url: "https://sermons.seanho.com/"
-    btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/img/unsplash-K3uOmmlQmOo-pencil_shavings.jpg
     alt: "Course material"
     title: "Teaching"
-    excerpt: 'Course material from TWU'
+    excerpt: 'Course material from Trinity Western University'
     url: "https://twu.seanho.com/"
-    btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/img/unsplash-5fNmWej4tAA-laptops_work.jpg
     alt: "Anchorlytics Consulting"
