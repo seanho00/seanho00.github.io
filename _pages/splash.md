@@ -1,7 +1,6 @@
 ---
 layout: splash
 permalink: /
-excerpt: "Ordinary guy, God's extraordinary grace"
 
 header:
   overlay_filter: "0.1"
