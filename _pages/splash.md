@@ -32,6 +32,14 @@ links:
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
+old_site:
+  title: "Old homepage"
+  except: "If you're looking for a link that used to be here"
+  url: "https://f.seanho.com/"
+  btn_label: "Resources"
+
 ---
 
 {% include feature_row id="links" %}
+
+{% include feature_row id="old_site" %}
