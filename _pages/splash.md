@@ -34,4 +34,4 @@ links:
 
 ---
 
-{% include feature_row id="links" type="center" %}
+{% include feature_row id="links" %}
