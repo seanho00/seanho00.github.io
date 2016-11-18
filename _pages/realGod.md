@@ -94,12 +94,13 @@ accepts this free gift.  What an awesome hope we have!
 "Yet [Abraham] did not waver through unbelief regarding the
 promise of God, but was strengthened in his faith and gave
 glory to God, being fully persuaded that God had power to do
-what he had promised.  This is why `it was credited to him as
-righteousness'.  The words `it was credited to him' were
+what he had promised.  This is why 'it was credited to him as
+righteousness'.  The words 'it was credited to him' were
 written not for him alone, but also for us, to whom God will
 credit righteousness -- for us who believe in him who raised
 Jesus our Lord from the dead.  He was delivered over to death
 for our sins and was raised to life for our justification."
+>
 > (Romans 4:20-25 (NIV))
 
-Chapel Hill, 4 May 1999
+-- Sean Ho. Chapel Hill, NC, 4 May 1999
