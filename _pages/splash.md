@@ -35,9 +35,19 @@ old_site:
     excerpt: "Other links and downloads"
     url: "https://f.seanho.com/"
     btn_label: "Old homepage"
+  - title: "Song sheets"
+    excerpt: "Praise songs with chords"
+    url: "https://songs.seanho.com/"
+    btn_class: "btn--inverse"
+  - title: "Old musings"
+    excerpt: "Assorted writings for church and ministry"
+    url: "https://f.seanho.com/church/"
+    btn_class: "btn--inverse"
 
 ---
 
 {% include feature_row id="links" %}
+
+---
 
 {% include feature_row id="old_site" %}
