@@ -1,6 +1,7 @@
 ---
 layout: splash
 permalink: /
+title: "Dr. Sean Ho"
 
 header:
   overlay_filter: "0.1"
