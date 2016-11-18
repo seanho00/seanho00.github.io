@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_filter: "0.1"
   overlay_image: /assets/img/seanho-golden-ears.jpg
-  caption: "&copy;2013 Sean Ho"
+  caption: "Golden Ears, BC"
   cta_label: "Contact me"
   cta_url: "mailto:www@seanho.com?body=From+web://"
 
