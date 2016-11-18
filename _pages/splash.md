@@ -4,11 +4,11 @@ permalink: /
 excerpt: "Ordinary guy, God's extraordinary grace"
 
 header:
-  overlay_filter: "0.25"
+  overlay_filter: "0.1"
   overlay_image: /assets/img/seanho-golden-ears.jpg
   caption: "&copy;2013 Sean Ho"
   cta_label: "Contact me"
-  cta_url: "mailto:www@seanho.com"
+  cta_url: "mailto://www@seanho.com"
 
 links:
   - image_path: /assets/img/unsplash-c333d6YEhi0-bible.jpg
