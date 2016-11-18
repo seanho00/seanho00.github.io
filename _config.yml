@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Dr. Sean Ho"
 title_separator          : "-"
 name                     : "Sean Ho"
-description              : "Sean's homepage"
+description              : "Homepage of Dr. Sean Ho"
 url                      : "https://seanho00.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "seanho00/seanho00.github.io"
@@ -174,7 +174,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Vancouver
 
 
 # Plugins
