@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "realGod"
+excerpt: "What's **really** important in life"
 permalink: /realGod/
 author_profile: true
 ---

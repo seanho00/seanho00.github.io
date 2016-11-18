@@ -2,9 +2,12 @@
 layout: single
 permalink: /about/
 title: About Sean
+excerpt: Learn more about me
 author_profile: true
 header:
-  image: /assets/img/seanho-golden-ears.jpg
+  overlay_filter: "0.1"
+  overlay_image: /assets/img/seanho-golden-ears.jpg
+  caption: "&copy;2013 Sean Ho"
 
 ---
 
