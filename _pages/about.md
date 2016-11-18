@@ -3,6 +3,8 @@ layout: single
 permalink: /about/
 title: About Sean
 author_profile: true
+header:
+  image: /assets/img/seanho-golden-ears.jpg
 
 ---
 
