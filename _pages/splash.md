@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/img/seanho-golden-ears.jpg
   caption: "&copy;2013 Sean Ho"
   cta_label: "Contact me"
-  cta_url: "mailto:www@seanho.com?body=web://"
+  cta_url: "mailto:www@seanho.com?body=From+web://"
 
 links:
   - image_path: /assets/img/unsplash-c333d6YEhi0-bible.jpg
@@ -32,15 +32,15 @@ links:
 
 old_site:
   - title: Resources
-    excerpt: "Other links and downloads"
+    excerpt: "Old home page"
     url: "https://f.seanho.com/"
-    btn_label: "Old homepage"
+    btn_class: "btn--inverse"
   - title: "Song sheets"
     excerpt: "Praise songs with chords"
     url: "https://songs.seanho.com/"
     btn_class: "btn--inverse"
-  - title: "Old musings"
-    excerpt: "Assorted writings for church and ministry"
+  - title: "Old writings"
+    excerpt: "For church and ministry"
     url: "https://f.seanho.com/church/"
     btn_class: "btn--inverse"
 
