@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /about
+permalink: /about/
 title: About Sean
 author_profile: true
 
