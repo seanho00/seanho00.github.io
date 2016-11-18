@@ -28,7 +28,8 @@ and God has blessed them both with
 a wonderful little boy who is teaching
 them just how little sleep they need to survive!
 
-<ul>
-  <li> <a href="https://f.seanho.com/cv/">Curriculum vitae</a> </li>
-  <li> <a href="https://f.seanho.com/seanho-thesis.pdf">Ph.D. thesis</a> </li>
-</ul>
++ [My personal testimony](/realGod/):
+  what's **really** important in life
++ [Curriculum vitae](https://f.seanho.com/cv/)
++ [Ph.D. thesis](https://f.seanho.com/seanho-thesis.pdf)
+
