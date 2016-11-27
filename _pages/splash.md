@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/img/seanho-golden-ears.jpg
   caption: "Golden Ears, BC"
   cta_label: "Contact me"
-  cta_url: "mailto:www@seanho.com?body=From+web://"
+  cta_url: "mailto:www@seanho.com?body=(web://)"
 
 links:
   - image_path: /assets/img/unsplash-c333d6YEhi0-bible.jpg
