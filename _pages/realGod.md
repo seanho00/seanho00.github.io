@@ -104,4 +104,4 @@ for our sins and was raised to life for our justification."
 >
 > (Romans 4:20-25 (NIV))
 
--- Sean Ho. Chapel Hill, NC, 4 May 1999
+-- Sean Ho. Chapel Hill, NC, May 1999
