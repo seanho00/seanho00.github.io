@@ -4,9 +4,27 @@ permalink: /docs/history/
 excerpt: "Change log of enhancements and bug fixes made to the theme."
 sidebar:
   nav: docs
-last_modified_at: 2018-02-05T14:38:43-05:00
+last_modified_at: 2018-03-01T11:32:04-05:00
 toc: true
 ---
+
+## Unreleased
+
+### Enhancements
+
+* Update jQuery to version `3.3.1`. [#1491](https://github.com/mmistakes/minimal-mistakes/issues/1491)
+* Add link to jekyll-algolia's `files_to_exclude` documentation.
+* Update Font Awesome to version [`5.0.7`](https://github.com/FortAwesome/Font-Awesome/blob/master/CHANGELOG.md). [#1555](https://github.com/mmistakes/minimal-mistakes/pull/1555)
+
+### Bug Fixes
+
+* Focus Algolia search input after clicking on search toggle.
+
+## [4.10.0](https://github.com/mmistakes/minimal-mistakes/releases/tag/4.10.0)
+
+### Enhancements
+
+* Add support for [Algolia](https://www.algolia.com/) search provider ([see demo](https://mmistakes.github.io/minimal-mistakes-algolia-search/)). [#1416](https://github.com/mmistakes/minimal-mistakes/issues/1416)
 
 ## [4.9.1](https://github.com/mmistakes/minimal-mistakes/releases/tag/4.9.1)
 
