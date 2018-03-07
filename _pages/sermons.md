@@ -1,2 +1,3 @@
 ---
-redirect_to: "https://songs.seanho.com/"
+redirect_to: https://sermons.seanho.com/
+---
