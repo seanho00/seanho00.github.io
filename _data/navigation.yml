@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Sermons"
+    url: https://sermons.seanho.com/
+  - title: "Teaching"
+    url: https://twu.seanho.com/
+  - title: "Consulting"
+    url: https://anchorlytics.com/
+  - title: "Blog"
+    url: https://blog.seanho.com/
