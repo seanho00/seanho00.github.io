@@ -33,6 +33,4 @@ them just how little sleep they need to survive!
 
 + [My personal testimony](/realGod/):
   what's **really** important in life
-+ [Curriculum vitae](https://f.seanho.com/cv/)
-+ [Ph.D. thesis](https://f.seanho.com/seanho-thesis.pdf)
-
++ [Archived blog](https://blog.seanho.com/)
