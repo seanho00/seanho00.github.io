@@ -31,17 +31,9 @@ links:
     btn_class: "btn--inverse"
 
 old_site:
-  - title: Resources
-    excerpt: "Old home page"
-    url: "https://f.seanho.com/"
-    btn_class: "btn--inverse"
   - title: "Song sheets"
     excerpt: "Praise songs with chords"
     url: "https://songs.seanho.com/"
-    btn_class: "btn--inverse"
-  - title: "Old writings"
-    excerpt: "For church and ministry"
-    url: "https://f.seanho.com/church/"
     btn_class: "btn--inverse"
 
 ---
