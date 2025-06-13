@@ -7,7 +7,7 @@ author_profile: true
 header:
   overlay_filter: "0.1"
   overlay_image: /assets/img/seanho-golden-ears.jpg
-  caption: "&copy;2013 Sean Ho"
+  caption: "&copy;2025 Sean Ho"
 
 ---
 
@@ -25,11 +25,9 @@ for seven years at Trinity Western University in Langley, BC.
 He's now a freelance statistical consultant doing
 data analysis and predictive modelling.
 
-Sean has a beautiful sweetie wifey 
-with whom he is insanely lovey-dovey,
-and God has blessed them both with 
-a wonderful little boy who is teaching
-them just how little sleep they need to survive!
+Sean and his wife have been homeschooling their son from
+kindergarten through middle school, and enjoy spending
+a lot of time together!
 
 + [My personal testimony](/realGod/):
   what's **really** important in life
